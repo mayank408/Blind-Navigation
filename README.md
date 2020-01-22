@@ -1,4 +1,4 @@
-# Smart India Hackathon 2018
+# Smart India Hackathon 2017
 
 ## Drishti, Obstacle Detection using Stereo Vision
 
